@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في صمت الليل أسمع نبضك.. في صمت الليل..
+> يا نور عيني قلبي يندهلك
+> روحي فداك والروح تعشقك
+> وبين النجوم أرى طيفك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
